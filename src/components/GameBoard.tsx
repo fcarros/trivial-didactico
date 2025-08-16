@@ -204,17 +204,20 @@ const GameBoard: React.FC<GameBoardProps> = ({ players }) => {
 
     if (lastAnswerWasCorrect && currentSquare && currentSquare.type === 'outer_ring') {
       // Player answered correctly on a normal square, they get to roll again.
-      // We don't change the player index.
+      // We don't change the player index, just reset the states to allow a new roll.
+      setCurrentQuestion(null);
+      setCurrentCategory(null);
+      setLastAnswerWasCorrect(null); // Reset for the next turn sequence
     } else {
       // Otherwise, it's the next player's turn.
       if (!isGameOver) {
         setCurrentPlayerIndex((prevIndex) => (prevIndex + 1) % players.length);
       }
+      // Reset states for the next player
+      setCurrentQuestion(null);
+      setCurrentCategory(null);
+      setLastAnswerWasCorrect(null);
     }
-
-    setCurrentQuestion(null);
-    setCurrentCategory(null);
-    setLastAnswerWasCorrect(null);
   };
 
   // REMOVED getCategoryByName function
