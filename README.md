@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# Trivial Didáctico Interactivo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción
 
-## Available Scripts
+Este es un juego de Trivial interactivo diseñado como una herramienta de aprendizaje. La aplicación está construida con React y TypeScript, y presenta un tablero de juego circular, un sistema de turnos para hasta 4 jugadores y un banco de preguntas personalizable basado en distintas unidades didácticas. El objetivo es ser el primero en conseguir los "quesitos" de todas las categorías y ganar en la casilla central.
 
-In the project directory, you can run:
+## Características Principales
 
-### `npm start`
+* **Pantalla de Inicio:** Permite configurar el número y los nombres de los jugadores.
+* **Tablero Circular Interactivo:** Un tablero generado 100% con código CSS, con anillo exterior y radios de acceso al centro.
+* **Sistema de Turnos:** Lógica completa para gestionar el turno del jugador actual.
+* **Puntuación y "Quesitos":** Marcador en tiempo real que muestra el progreso de cada jugador.
+* **Banco de Preguntas Externo:** Las preguntas y categorías se gestionan desde un archivo `preguntas.json`, facilitando su expansión y adaptación a otras temáticas.
+* **Lógica de Victoria Clásica:** Requiere obtener los 6 quesitos antes de poder ganar en la casilla central.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tecnologías Utilizadas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* [React](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* CSS (Flexbox, Grid y Transformaciones)
+* Git y GitHub para el control de versiones.
 
-### `npm test`
+## Cómo Empezar (Instalación y Arranque)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para ejecutar este proyecto de forma local, sigue estos pasos:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+1.  Clona el repositorio:
+    ```bash
+    git clone [https://github.com/fcarros/trivial-didactico.git](https://github.com/fcarros/trivial-didactico.git)
+    ```
+2.  Navega a la carpeta del proyecto:
+    ```bash
+    cd trivial-didactico
+    ```
+3.  Instala las dependencias:
+    ```bash
+    npm install
+    ```
+4.  Arranca el servidor de desarrollo:
+    ```bash
+    npm start
+    ```
+El juego se abrirá en `http://localhost:3000`.
