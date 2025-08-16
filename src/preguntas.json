@@ -1,0 +1,1246 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Unidad Didáctica 1: Digitalización de los sectores productivos",
+      "color": "#FF5733",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué concepto clave define la Cuarta Revolución Industrial o Industria 4.0?",
+          "opciones": [
+            "La invención de la máquina de vapor.",
+            "La producción en masa en líneas de montaje.",
+            "La digitalización integral de la industria y los servicios, difuminando fronteras entre el mundo físico y digital.",
+            "La introducción de la electricidad como fuente de energía principal."
+          ],
+          "respuestaCorrecta": "La digitalización integral de la industria y los servicios, difuminando fronteras entre el mundo físico y digital."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes tecnologías NO es un pilar fundamental de la Cuarta Revolución Industrial?",
+          "opciones": [
+            "Internet de las Cosas (IoT).",
+            "Inteligencia Artificial (IA).",
+            "Máquina de vapor.",
+            "Big Data."
+          ],
+          "respuestaCorrecta": "Máquina de vapor."
+        },
+        {
+          "pregunta": "¿Qué es un Sistema Ciberfísico (CPS)?",
+          "opciones": [
+            "Un sistema informático que solo existe en el mundo virtual.",
+            "Un mecanismo que integra estrechamente componentes físicos y digitales, con bucles de retroalimentación.",
+            "Un robot que solo realiza tareas preprogramadas.",
+            "Un software de gestión empresarial (ERP)."
+          ],
+          "respuestaCorrecta": "Un mecanismo que integra estrechamente componentes físicos y digitales, con bucles de retroalimentación."
+        },
+        {
+          "pregunta": "¿Qué virus famoso demostró en 2010 la capacidad de alterar el comportamiento físico de equipos industriales mediante código malicioso?",
+          "opciones": [
+            "WannaCry.",
+            "Stuxnet.",
+            "Melissa.",
+            "Conficker."
+          ],
+          "respuestaCorrecta": "Stuxnet."
+        },
+        {
+          "pregunta": "¿Cuál es uno de los principales beneficios de la digitalización en el departamento de Producción (Operaciones)?",
+          "opciones": [
+            "Reducción de la necesidad de mantenimiento de maquinaria.",
+            "Control en tiempo real del taller y optimización automática de la producción.",
+            "Eliminación total de la intervención humana en la fabricación.",
+            "Aumento de los costes de energía."
+          ],
+          "respuestaCorrecta": "Control en tiempo real del taller y optimización automática de la producción."
+        },
+        {
+          "pregunta": "¿Qué ventaja aporta la digitalización al departamento de Mantenimiento?",
+          "opciones": [
+            "Convierte el mantenimiento en una actividad reactiva.",
+            "Permite el mantenimiento predictivo, anticipando fallos y reduciendo paradas imprevistas.",
+            "Elimina la necesidad de técnicos de mantenimiento.",
+            "Aumenta los tiempos muertos de la maquinaria."
+          ],
+          "respuestaCorrecta": "Permite el mantenimiento predictivo, anticipando fallos y reduciendo paradas imprevistas."
+        },
+        {
+          "pregunta": "¿Qué tecnología permite la trazabilidad total de materiales y productos en Logística y Cadena de Suministro?",
+          "opciones": [
+            "Códigos de barras o etiquetas RFID escaneadas automáticamente.",
+            "Uso exclusivo de papel para el registro.",
+            "Comunicación manual entre proveedores.",
+            "Sistemas de almacenamiento sin conexión a internet."
+          ],
+          "respuestaCorrecta": "Códigos de barras o etiquetas RFID escaneadas automáticamente."
+        },
+        {
+          "pregunta": "¿Qué herramienta digital centraliza la información de clientes y automatiza interacciones en Marketing y Ventas?",
+          "opciones": [
+            "Software de contabilidad.",
+            "Sistemas de Planificación de Recursos Empresariales (ERP).",
+            "Herramientas de CRM (Customer Relationship Management).",
+            "Hojas de cálculo avanzadas."
+          ],
+          "respuestaCorrecta": "Herramientas de CRM (Customer Relationship Management)."
+        },
+        {
+          "pregunta": "¿Qué beneficio clave aporta la digitalización al departamento de Finanzas y Administración?",
+          "opciones": [
+            "Aumento del uso de papel y archivo físico.",
+            "Automatización de asientos contables y conciliaciones bancarias, reduciendo errores.",
+            "Necesidad de más personal para gestionar datos.",
+            "Dependencia de la intuición para la toma de decisiones."
+          ],
+          "respuestaCorrecta": "Automatización de asientos contables y conciliaciones bancarias, reduciendo errores."
+        },
+        {
+          "pregunta": "¿Qué herramienta digital proporciona herramientas de simulación y la posibilidad de emplear gemelos digitales en I+D+i?",
+          "opciones": [
+            "Software de diseño gráfico básico.",
+            "Plataformas de gestión de proyectos ágiles.",
+            "Software CAD/CAE.",
+            "Sistemas de videoconferencia."
+          ],
+          "respuestaCorrecta": "Software CAD/CAE."
+        },
+        {
+          "pregunta": "¿Qué significa la convergencia IT/OT en el contexto de la Industria 4.0?",
+          "opciones": [
+            "La separación total entre tecnologías de la información y tecnologías operativas.",
+            "La integración fluida entre los sistemas de gestión empresarial y los procesos de producción industrial.",
+            "El uso exclusivo de sistemas IT en la planta industrial.",
+            "La eliminación de la necesidad de ciberseguridad en entornos industriales."
+          ],
+          "respuestaCorrecta": "La integración fluida entre los sistemas de gestión empresarial y los procesos de producción industrial."
+        },
+        {
+          "pregunta": "¿Cuál es un beneficio clave de la convergencia IT/OT en el mantenimiento industrial?",
+          "opciones": [
+            "Aumento del tiempo de inactividad de las máquinas.",
+            "Mantenimiento predictivo y menor tiempo de inactividad.",
+            "Mayor dependencia de la intervención humana.",
+            "Reducción de la visibilidad del estado de las máquinas."
+          ],
+          "respuestaCorrecta": "Mantenimiento predictivo y menor tiempo de inactividad."
+        },
+        {
+          "pregunta": "¿Qué ventaja ofrece la digitalización en términos de calidad y trazabilidad?",
+          "opciones": [
+            "Dificulta el rastreo de productos con problemas de calidad.",
+            "Permite monitorizar cada pieza o producto a lo largo de su ciclo de vida y mejorar la calidad continuamente.",
+            "Aumenta los errores en la producción.",
+            "Reduce la necesidad de auditorías de calidad."
+          ],
+          "respuestaCorrecta": "Permite monitorizar cada pieza o producto a lo largo de su ciclo de vida y mejorar la calidad continuamente."
+        },
+        {
+          "pregunta": "¿Cómo contribuye la digitalización a la sostenibilidad ambiental y la RSC?",
+          "opciones": [
+            "Aumentando el consumo de recursos y la generación de residuos.",
+            "Optimizando recursos, reduciendo papel y viajes innecesarios, y disminuyendo la huella ecológica.",
+            "Ignorando los Objetivos de Desarrollo Sostenible (ODS).",
+            "Incrementando las emisiones de CO2."
+          ],
+          "respuestaCorrecta": "Optimizando recursos, reduciendo papel y viajes innecesarios, y disminuyendo la huella ecológica."
+        },
+        {
+          "pregunta": "¿Qué tecnología permite dotar de 'sensores inteligentes' a máquinas y vehículos, haciendo visibles y controlables procesos remotamente?",
+          "opciones": [
+            "Inteligencia Artificial (IA).",
+            "Big Data.",
+            "Internet de las Cosas (IoT).",
+            "Computación en la nube."
+          ],
+          "respuestaCorrecta": "Internet de las Cosas (IoT)."
+        },
+        {
+          "pregunta": "¿Qué tecnología se basa en servidores remotos para ofrecer almacenamiento, base de datos y cómputo de forma escalable a través de Internet?",
+          "opciones": [
+            "Edge computing.",
+            "Robótica avanzada.",
+            "Computación en la nube (Cloud computing).",
+            "Realidad Aumentada (RA)."
+          ],
+          "respuestaCorrecta": "Computación en la nube (Cloud computing)."
+        },
+        {
+          "pregunta": "¿En qué situación es crucial utilizar la computación perimetral (edge computing)?",
+          "opciones": [
+            "Cuando se necesita procesar datos con latencia ultra baja y continuidad operativa.",
+            "Cuando se requiere capacidad de cómputo ilimitada para entrenar modelos complejos de IA.",
+            "Para almacenar grandes volúmenes de datos históricos a largo plazo.",
+            "Para compartir datos abiertos con socios globales en un portal web público."
+          ],
+          "respuestaCorrecta": "Cuando se necesita procesar datos con latencia ultra baja y continuidad operativa."
+        },
+        {
+          "pregunta": "¿Qué tecnología inmersiva permite a un operario ver información digital superpuesta al mundo real a través de gafas o una pantalla?",
+          "opciones": [
+            "Realidad Virtual (RV).",
+            "Impresión 3D.",
+            "Realidad Aumentada (RA).",
+            "Gemelos Digitales."
+          ],
+          "respuestaCorrecta": "Realidad Aumentada (RA)."
+        },
+        {
+          "pregunta": "¿Qué tecnología apoya la trazabilidad y confianza en las cadenas de suministro digitales registrando transacciones de forma inmutable?",
+          "opciones": [
+            "Big Data.",
+            "Ciberseguridad.",
+            "Blockchain (cadenas de bloques).",
+            "Cloud Computing."
+          ],
+          "respuestaCorrecta": "Blockchain (cadenas de bloques)."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones sobre la digitalización y el empleo es correcta según el documento?",
+          "opciones": [
+            "La IA eliminará la mayoría de los trabajos humanos.",
+            "La digitalización solo afectará a los trabajos manuales.",
+            "La IA no reemplazará el trabajo humano, sino que cambiará su naturaleza, creando nuevos roles y requiriendo nuevas competencias.",
+            "La digitalización no tendrá ningún impacto en el mercado laboral."
+          ],
+          "respuestaCorrecta": "La IA no reemplazará el trabajo humano, sino que cambiará su naturaleza, creando nuevos roles y requiriendo nuevas competencias."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Unidad Didáctica 2: Tecnologías Digitales Habilitadoras",
+      "color": "#33FF57",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el objetivo principal de las tecnologías digitales habilitadoras?",
+          "opciones": [
+            "Reemplazar completamente la mano de obra humana.",
+            "Permitir la automatización de tareas repetitivas.",
+            "Impulsar la transformación digital y la creación de nuevos modelos de negocio.",
+            "Reducir el consumo de energía en la industria."
+          ],
+          "respuestaCorrecta": "Impulsar la transformación digital y la creación de nuevos modelos de negocio."
+        },
+        {
+          "pregunta": "¿Qué tecnología se refiere a la interconexión de objetos cotidianos con internet, permitiendo la recopilación y el intercambio de datos?",
+          "opciones": [
+            "Inteligencia Artificial (IA).",
+            "Big Data.",
+            "Internet de las Cosas (IoT).",
+            "Computación en la Nube."
+          ],
+          "respuestaCorrecta": "Internet de las Cosas (IoT)."
+        },
+        {
+          "pregunta": "¿Qué tipo de sensores se utilizan en IoT para medir variables físicas como temperatura, humedad o presión?",
+          "opciones": [
+            "Sensores ópticos.",
+            "Sensores de proximidad.",
+            "Sensores ambientales.",
+            "Sensores de movimiento."
+          ],
+          "respuestaCorrecta": "Sensores ambientales."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales ventajas del IoT en la industria?",
+          "opciones": [
+            "Aumentar la complejidad de los procesos.",
+            "Permitir la monitorización y control remoto de activos y procesos.",
+            "Reducir la cantidad de datos generados.",
+            "Eliminar la necesidad de mantenimiento."
+          ],
+          "respuestaCorrecta": "Permitir la monitorización y control remoto de activos y procesos."
+        },
+        {
+          "pregunta": "¿Qué tecnología se enfoca en la creación de máquinas que pueden aprender, razonar y tomar decisiones como los humanos?",
+          "opciones": [
+            "Big Data.",
+            "Internet de las Cosas (IoT).",
+            "Inteligencia Artificial (IA).",
+            "Robótica."
+          ],
+          "respuestaCorrecta": "Inteligencia Artificial (IA)."
+        },
+        {
+          "pregunta": "¿Qué subcampo de la IA permite a los sistemas aprender de datos sin ser programados explícitamente?",
+          "opciones": [
+            "Procesamiento del Lenguaje Natural (PLN).",
+            "Visión por Computadora.",
+            "Machine Learning (Aprendizaje Automático).",
+            "Robótica."
+          ],
+          "respuestaCorrecta": "Machine Learning (Aprendizaje Automático)."
+        },
+        {
+          "pregunta": "¿Qué tipo de IA se utiliza para tareas como el reconocimiento de voz, la traducción automática y la generación de texto?",
+          "opciones": [
+            "Visión por Computadora.",
+            "Procesamiento del Lenguaje Natural (PLN).",
+            "Robótica.",
+            "Análisis Predictivo."
+          ],
+          "respuestaCorrecta": "Procesamiento del Lenguaje Natural (PLN)."
+        },
+        {
+          "pregunta": "¿Qué tecnología se refiere a la gestión y análisis de conjuntos de datos tan grandes y complejos que los métodos tradicionales no son suficientes?",
+          "opciones": [
+            "Inteligencia Artificial (IA).",
+            "Internet de las Cosas (IoT).",
+            "Big Data.",
+            "Computación en la Nube."
+          ],
+          "respuestaCorrecta": "Big Data."
+        },
+        {
+          "pregunta": "¿Cuáles son las '3 V' que tradicionalmente se asocian con Big Data?",
+          "opciones": [
+            "Visión, Velocidad, Valor.",
+            "Volumen, Velocidad, Variedad.",
+            "Veracidad, Visibilidad, Valor.",
+            "Volumen, Variedad, Verificación."
+          ],
+          "respuestaCorrecta": "Volumen, Velocidad, Variedad."
+        },
+        {
+          "pregunta": "¿Qué tipo de análisis de datos se enfoca en predecir eventos futuros basándose en patrones históricos?",
+          "opciones": [
+            "Análisis descriptivo.",
+            "Análisis diagnóstico.",
+            "Análisis predictivo.",
+            "Análisis prescriptivo."
+          ],
+          "respuestaCorrecta": "Análisis predictivo."
+        },
+        {
+          "pregunta": "¿Qué tecnología permite almacenar y acceder a datos y aplicaciones a través de internet, en lugar de tenerlos en servidores locales?",
+          "opciones": [
+            "Edge Computing.",
+            "Computación en la Nube (Cloud Computing).",
+            "Big Data.",
+            "Blockchain."
+          ],
+          "respuestaCorrecta": "Computación en la Nube (Cloud Computing)."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales ventajas de la Computación en la Nube para las empresas?",
+          "opciones": [
+            "Mayor control físico sobre los servidores.",
+            "Reducción de la flexibilidad y escalabilidad.",
+            "Acceso a recursos informáticos bajo demanda y desde cualquier lugar.",
+            "Aumento de los costes de infraestructura."
+          ],
+          "respuestaCorrecta": "Acceso a recursos informáticos bajo demanda y desde cualquier lugar."
+        },
+        {
+          "pregunta": "¿Qué modelo de servicio en la nube proporciona infraestructura virtualizada (servidores, almacenamiento, redes) a los usuarios?",
+          "opciones": [
+            "SaaS (Software as a Service).",
+            "PaaS (Platform as a Service).",
+            "IaaS (Infrastructure as a Service).",
+            "FaaS (Function as a Service)."
+          ],
+          "respuestaCorrecta": "IaaS (Infrastructure as a Service)."
+        },
+        {
+          "pregunta": "¿Qué tecnología se refiere a la capacidad de las máquinas para realizar tareas físicas de forma autónoma o semi-autónoma?",
+          "opciones": [
+            "Inteligencia Artificial (IA).",
+            "Robótica.",
+            "Internet de las Cosas (IoT).",
+            "Impresión 3D."
+          ],
+          "respuestaCorrecta": "Robótica."
+        },
+        {
+          "pregunta": "¿Qué tipo de robots están diseñados para trabajar junto a humanos en un entorno compartido?",
+          "opciones": [
+            "Robots industriales.",
+            "Robots de servicio.",
+            "Cobots (Robots Colaborativos).",
+            "Drones."
+          ],
+          "respuestaCorrecta": "Cobots (Robots Colaborativos)."
+        },
+        {
+          "pregunta": "¿Qué tecnología permite superponer información digital sobre el mundo real, visible a través de dispositivos como gafas o pantallas de móvil?",
+          "opciones": [
+            "Realidad Virtual (RV).",
+            "Realidad Aumentada (RA).",
+            "Realidad Mixta (RM).",
+            "Impresión 3D."
+          ],
+          "respuestaCorrecta": "Realidad Aumentada (RA)."
+        },
+        {
+          "pregunta": "¿Qué tecnología crea un entorno virtual completamente inmersivo que simula la realidad?",
+          "opciones": [
+            "Realidad Aumentada (RA).",
+            "Realidad Virtual (RV).",
+            "Realidad Mixta (RM).",
+            "Gemelos Digitales."
+          ],
+          "respuestaCorrecta": "Realidad Virtual (RV)."
+        },
+        {
+          "pregunta": "¿Qué tecnología permite crear objetos tridimensionales capa por capa a partir de un diseño digital?",
+          "opciones": [
+            "Robótica.",
+            "Impresión 3D (Fabricación Aditiva).",
+            "Visión por Computadora.",
+            "Nanotecnología."
+          ],
+          "respuestaCorrecta": "Impresión 3D (Fabricación Aditiva)."
+        },
+        {
+          "pregunta": "¿Qué tecnología se utiliza para crear una réplica virtual de un objeto o sistema físico, que permite simular su comportamiento y probar cambios?",
+          "opciones": [
+            "Realidad Aumentada.",
+            "Impresión 3D.",
+            "Gemelos Digitales.",
+            "Blockchain."
+          ],
+          "respuestaCorrecta": "Gemelos Digitales."
+        },
+        {
+          "pregunta": "¿Qué tecnología se basa en una red descentralizada y distribuida para registrar transacciones de forma segura e inmutable?",
+          "opciones": [
+            "Big Data.",
+            "Computación en la Nube.",
+            "Blockchain.",
+            "Internet de las Cosas."
+          ],
+          "respuestaCorrecta": "Blockchain."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Unidad Didáctica 3: Sistemas basados en la nube (Computación en la nube)",
+      "color": "#3357FF",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué concepto describe el 'cloud computing' como un modelo de suministro de servicios tecnológicos a través de Internet, bajo demanda y con pago según consumo?",
+          "opciones": [
+            "Infraestructura como Servicio (IaaS).",
+            "Plataforma como Servicio (PaaS).",
+            "Software como Servicio (SaaS).",
+            "Servicio Medido."
+          ],
+          "respuestaCorrecta": "Servicio Medido."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes NO es una característica esencial de la computación en la nube según el NIST?",
+          "opciones": [
+            "Autoservicio a demanda.",
+            "Acceso ubicuo por red.",
+            "Recursos compartidos.",
+            "Infraestructura local dedicada."
+          ],
+          "respuestaCorrecta": "Infraestructura local dedicada."
+        },
+        {
+          "pregunta": "¿Qué modelo de servicio en la nube proporciona infraestructura básica de TI (servidores virtuales, almacenamiento, redes) y el cliente gestiona el sistema operativo y las aplicaciones?",
+          "opciones": [
+            "SaaS (Software as a Service).",
+            "PaaS (Platform as a Service).",
+            "IaaS (Infrastructure as a Service).",
+            "XaaS (Anything as a Service)."
+          ],
+          "respuestaCorrecta": "IaaS (Infrastructure as a Service)."
+        },
+        {
+          "pregunta": "¿Qué modelo de servicio en la nube ofrece un entorno de desarrollo o plataforma sobre la cual el cliente puede ejecutar sus propias aplicaciones, sin gestionar la infraestructura subyacente?",
+          "opciones": [
+            "SaaS (Software as a Service).",
+            "PaaS (Platform as a Service).",
+            "IaaS (Infrastructure as a Service).",
+            "DaaS (Desktop as a Service)."
+          ],
+          "respuestaCorrecta": "PaaS (Platform as a Service)."
+        },
+        {
+          "pregunta": "¿Qué modelo de servicio en la nube proporciona aplicaciones de software completas, listas para usar y accesibles normalmente a través de un navegador web?",
+          "opciones": [
+            "SaaS (Software as a Service).",
+            "PaaS (Platform as a Service).",
+            "IaaS (Infrastructure as a Service).",
+            "FaaS (Functions as a Service)."
+          ],
+          "respuestaCorrecta": "SaaS (Software as a Service)."
+        },
+        {
+          "pregunta": "¿Qué tipo de nube es propiedad de un proveedor externo y ofrece servicios al público en general, con recursos compartidos entre múltiples clientes?",
+          "opciones": [
+            "Nube privada.",
+            "Nube híbrida.",
+            "Nube pública.",
+            "Nube comunitaria."
+          ],
+          "respuestaCorrecta": "Nube pública."
+        },
+        {
+          "pregunta": "¿Qué tipo de nube es exclusiva de una sola organización, ya sea gestionada internamente o por un tercero de forma dedicada?",
+          "opciones": [
+            "Nube pública.",
+            "Nube privada.",
+            "Nube híbrida.",
+            "Nube comunitaria."
+          ],
+          "respuestaCorrecta": "Nube privada."
+        },
+        {
+          "pregunta": "¿Qué tipo de nube combina infraestructura pública y privada, con integración entre ambas, para aprovechar lo mejor de cada modelo?",
+          "opciones": [
+            "Nube pública.",
+            "Nube privada.",
+            "Nube híbrida.",
+            "Nube comunitaria."
+          ],
+          "respuestaCorrecta": "Nube híbrida."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales ventajas del almacenamiento de datos en la nube?",
+          "opciones": [
+            "Mayor control físico sobre los servidores.",
+            "Dependencia de la conexión a Internet.",
+            "Accesibilidad global y sincronización de datos desde cualquier dispositivo.",
+            "Costos fijos elevados."
+          ],
+          "respuestaCorrecta": "Accesibilidad global y sincronización de datos desde cualquier dispositivo."
+        },
+        {
+          "pregunta": "¿Qué ventaja del almacenamiento en la nube permite a una empresa solicitar más capacidad cuando la necesita y reducirla cuando ya no hace falta?",
+          "opciones": [
+            "Respaldo y recuperación.",
+            "Escalabilidad transparente.",
+            "Mantenimiento delegado.",
+            "Colaboración en tiempo real."
+          ],
+          "respuestaCorrecta": "Escalabilidad transparente."
+        },
+        {
+          "pregunta": "¿Qué concepto se refiere a procesar datos lo más cerca posible del origen, en dispositivos locales, para reducir la latencia y el ancho de banda?",
+          "opciones": [
+            "Cloud Computing.",
+            "Fog Computing.",
+            "Edge Computing.",
+            "Mist Computing."
+          ],
+          "respuestaCorrecta": "Edge Computing."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales motivaciones para usar Edge Computing en lugar de solo la nube?",
+          "opciones": [
+            "Almacenar grandes volúmenes de datos históricos.",
+            "Reducir la latencia para aplicaciones críticas.",
+            "Aumentar la dependencia de la conexión a Internet.",
+            "Simplificar la gestión de la infraestructura."
+          ],
+          "respuestaCorrecta": "Reducir la latencia para aplicaciones críticas."
+        },
+        {
+          "pregunta": "¿Qué término describe una capa intermedia entre el edge y la nube, donde parte del procesamiento y almacenamiento se realiza en nodos de red locales como gateways o mini centros de datos?",
+          "opciones": [
+            "Cloud Computing.",
+            "Fog Computing.",
+            "Edge Computing.",
+            "Mist Computing."
+          ],
+          "respuestaCorrecta": "Fog Computing."
+        },
+        {
+          "pregunta": "¿Qué concepto se refiere al cómputo más extremo y pequeño, realizado directamente en el propio dispositivo mínimo, como un microcontrolador en un sensor?",
+          "opciones": [
+            "Cloud Computing.",
+            "Fog Computing.",
+            "Edge Computing.",
+            "Mist Computing."
+          ],
+          "respuestaCorrecta": "Mist Computing."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales ventajas de la computación en la nube en términos de rentabilidad?",
+          "opciones": [
+            "Aumento de las inversiones iniciales (CAPEX).",
+            "Transformación de gastos de capital (CAPEX) a gastos operativos (OPEX).",
+            "Mayor coste por el uso de recursos infrautilizados.",
+            "Necesidad de mantener un gran centro de datos propio."
+          ],
+          "respuestaCorrecta": "Transformación de gastos de capital (CAPEX) a gastos operativos (OPEX)."
+        },
+        {
+          "pregunta": "¿Qué estrategia de optimización de costos en la nube implica elegir la potencia exacta necesaria de CPU/memoria para cada carga y ajustarla en vivo?",
+          "opciones": [
+            "Apagado en horas valle.",
+            "Uso de instancias reservadas o spot.",
+            "Right-sizing.",
+            "Servicios gestionados."
+          ],
+          "respuestaCorrecta": "Right-sizing."
+        },
+        {
+          "pregunta": "¿Qué proveedor de nube es líder global en cuota de mercado y ofrece un catálogo muy amplio de servicios, desde cómputo hasta IA y blockchain?",
+          "opciones": [
+            "Microsoft Azure.",
+            "Google Cloud Platform (GCP).",
+            "Amazon Web Services (AWS).",
+            "IBM Cloud."
+          ],
+          "respuestaCorrecta": "Amazon Web Services (AWS)."
+        },
+        {
+          "pregunta": "¿Qué proveedor de nube se destaca por su fuerte integración con entornos de oficina de Microsoft y por facilitar soluciones híbridas?",
+          "opciones": [
+            "Amazon Web Services (AWS).",
+            "Google Cloud Platform (GCP).",
+            "Microsoft Azure.",
+            "Oracle Cloud."
+          ],
+          "respuestaCorrecta": "Microsoft Azure."
+        },
+        {
+          "pregunta": "¿Qué proveedor de nube apuesta por la innovación en datos e inteligencia artificial, y es líder en contenedores (Kubernetes)?",
+          "opciones": [
+            "Amazon Web Services (AWS).",
+            "Google Cloud Platform (GCP).",
+            "Microsoft Azure.",
+            "IBM Cloud."
+          ],
+          "respuestaCorrecta": "Google Cloud Platform (GCP)."
+        },
+        {
+          "pregunta": "¿Cuál es una de las principales preocupaciones en ciberseguridad en la nube, a pesar de sus ventajas?",
+          "opciones": [
+            "La imposibilidad de cifrar datos.",
+            "La dependencia de la conectividad a Internet.",
+            "La falta de herramientas de monitoreo.",
+            "La ausencia de responsabilidad compartida."
+          ],
+          "respuestaCorrecta": "La dependencia de la conectividad a Internet."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Unidad Didáctica 4: Aplicación de la Inteligencia Artificial",
+      "color": "#FF33A1",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el objetivo principal de la Inteligencia Artificial (IA)?",
+          "opciones": [
+            "Crear robots que reemplacen a los humanos en todas las tareas.",
+            "Emular la inteligencia humana para que las máquinas realicen tareas como aprender, razonar o tomar decisiones.",
+            "Desarrollar software que solo funcione en superordenadores.",
+            "Automatizar únicamente tareas repetitivas en fábricas."
+          ],
+          "respuestaCorrecta": "Emular la inteligencia humana para que las máquinas realicen tareas como aprender, razonar o tomar decisiones."
+        },
+        {
+          "pregunta": "¿Qué dos factores clave han acelerado el progreso de la IA en los últimos años?",
+          "opciones": [
+            "La invención de nuevos lenguajes de programación y la reducción del coste de hardware.",
+            "La disponibilidad de grandes volúmenes de datos (Big Data) y el aumento del poder de cómputo.",
+            "El desarrollo de la robótica avanzada y la mejora de la conectividad a internet.",
+            "La creación de algoritmos más simples y la disminución de la inversión en investigación."
+          ],
+          "respuestaCorrecta": "La disponibilidad de grandes volúmenes de datos (Big Data) y el aumento del poder de cómputo."
+        },
+        {
+          "pregunta": "¿Qué tipo de IA se caracteriza por no 'recordar' nada y tomar decisiones basándose únicamente en la información inmediata?",
+          "opciones": [
+            "IA de Memoria Limitada (Tipo II)",
+            "IA Reactiva (Tipo I)",
+            "IA con Teoría de la Mente (Tipo III)",
+            "IA Autoconsciente (Tipo IV)"
+          ],
+          "respuestaCorrecta": "IA Reactiva (Tipo I)"
+        },
+        {
+          "pregunta": "¿Qué ejemplo famoso de IA Reactiva (Tipo I) se menciona en el documento?",
+          "opciones": [
+            "Siri o Alexa",
+            "Vehículos autónomos",
+            "Deep Blue",
+            "ChatGPT"
+          ],
+          "respuestaCorrecta": "Deep Blue"
+        },
+        {
+          "pregunta": "¿Qué característica principal distingue a la IA de Memoria Limitada (Tipo II) de la IA Reactiva (Tipo I)?",
+          "opciones": [
+            "Su capacidad de entender emociones humanas.",
+            "Su habilidad para generar contenido creativo.",
+            "Su capacidad de aprovechar experiencias pasadas de forma limitada.",
+            "Su consciencia de sí misma."
+          ],
+          "respuestaCorrecta": "Su capacidad de aprovechar experiencias pasadas de forma limitada."
+        },
+        {
+          "pregunta": "¿Qué tipo de sistemas de IA actuales son un ejemplo claro de IA de Memoria Limitada (Tipo II)?",
+          "opciones": [
+            "Robots industriales programados para una tarea específica.",
+            "Asistentes de voz modernos (Siri, Alexa) y vehículos semi-autónomos.",
+            "Sistemas de IA capaces de escribir poesía.",
+            "Algoritmos que solo realizan cálculos matemáticos básicos."
+          ],
+          "respuestaCorrecta": "Asistentes de voz modernos (Siri, Alexa) y vehículos semi-autónomos."
+        },
+        {
+          "pregunta": "¿Qué niveles de IA son hipotéticos o están en desarrollo y se refieren a la capacidad de entender emociones y tener conciencia propia?",
+          "opciones": [
+            "IA Reactiva (Tipo I) y de Memoria Limitada (Tipo II).",
+            "Teoría de la Mente (Tipo III) y Autoconciencia (Tipo IV).",
+            "IA Estrecha y IA General.",
+            "Machine Learning y Deep Learning."
+          ],
+          "respuestaCorrecta": "Teoría de la Mente (Tipo III) y Autoconciencia (Tipo IV)."
+        },
+        {
+          "pregunta": "¿Qué es un robot sociable según la definición del documento?",
+          "opciones": [
+            "Un robot industrial que trabaja en entornos controlados.",
+            "Un agente artificial con apariencia o comportamientos humanoides/animales diseñado para interactuar socialmente con las personas.",
+            "Un programa de IA que opera exclusivamente en la nube.",
+            "Un sistema de IA que solo responde a comandos de voz."
+          ],
+          "respuestaCorrecta": "Un agente artificial con apariencia o comportamientos humanoides/animales diseñado para interactuar socialmente con las personas."
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes NO es un ejemplo de aplicación de IA en la industria y fabricación mencionado en el texto?",
+          "opciones": [
+            "Sistemas de visión artificial para inspección de calidad.",
+            "Robots controlados por IA para ensamblaje.",
+            "Algoritmos de mantenimiento predictivo.",
+            "Creación de diseños de moda originales sin intervención humana."
+          ],
+          "respuestaCorrecta": "Creación de diseños de moda originales sin intervención humana."
+        },
+        {
+          "pregunta": "¿Qué papel juega la IA en el comercio minorista según el documento?",
+          "opciones": [
+            "Automatizar completamente la atención al cliente sin interacción humana.",
+            "Prever la demanda de productos y optimizar el inventario.",
+            "Diseñar nuevas tiendas físicas de forma autónoma.",
+            "Gestionar únicamente las transacciones de pago."
+          ],
+          "respuestaCorrecta": "Prever la demanda de productos y optimizar el inventario."
+        },
+        {
+          "pregunta": "¿Qué tipo de herramientas de IA se utilizan en marketing y atención al cliente para ofrecer recomendaciones personalizadas?",
+          "opciones": [
+            "Sistemas de reconocimiento facial en tiendas.",
+            "Chatbots inteligentes y algoritmos que analizan el comportamiento del usuario en línea.",
+            "Robots físicos que interactúan con los clientes en persona.",
+            "Software de contabilidad automatizado."
+          ],
+          "respuestaCorrecta": "Chatbots inteligentes y algoritmos que analizan el comportamiento del usuario en línea."
+        },
+        {
+          "pregunta": "¿Cómo apoya la IA a los profesionales de la salud según el documento?",
+          "opciones": [
+            "Reemplazando a los médicos en todas las cirugías.",
+            "Ayudando en diagnósticos y tratamientos, como el análisis de radiografías o la predicción de brotes epidémicos.",
+            "Gestionando la administración de hospitales de forma autónoma.",
+            "Creando nuevos medicamentos sin necesidad de ensayos clínicos."
+          ],
+          "respuestaCorrecta": "Ayudando en diagnósticos y tratamientos, como el análisis de radiografías o la predicción de brotes epidémicos."
+        },
+        {
+          "pregunta": "¿Qué tecnología se utiliza en el sector agroalimentario para detectar plagas o necesidades de riego en cultivos?",
+          "opciones": [
+            "Sensores de humedad manuales.",
+            "Drones e IA.",
+            "Sistemas de riego tradicionales.",
+            "Análisis de suelo por métodos químicos."
+          ],
+          "respuestaCorrecta": "Drones e IA."
+        },
+        {
+          "pregunta": "¿Qué hito importante en la evolución de la IA ocurrió en 1956?",
+          "opciones": [
+            "La publicación del artículo de Alan Turing sobre si las máquinas pueden pensar.",
+            "La derrota de Deep Blue al campeón mundial de ajedrez.",
+            "La Conferencia de Dartmouth, considerada el nacimiento oficial de la IA.",
+            "El desarrollo de ChatGPT por OpenAI."
+          ],
+          "respuestaCorrecta": "La Conferencia de Dartmouth, considerada el nacimiento oficial de la IA."
+        },
+        {
+          "pregunta": "¿Qué periodo en la historia de la IA se conoce como 'invierno de la IA'?",
+          "opciones": [
+            "La década de 1940, cuando se sentaron las bases teóricas.",
+            "Las décadas de 1960-1970, debido a la reducción de financiación y avances lentos.",
+            "La década de 1980, con el auge de los sistemas expertos.",
+            "La década de 2010, con la revolución del Deep Learning."
+          ],
+          "respuestaCorrecta": "Las décadas de 1960-1970, debido a la reducción de financiación y avances lentos."
+        },
+        {
+          "pregunta": "¿Qué algoritmo aprendió a jugar backgammon al nivel de los mejores humanos en la década de 1990, siendo un precursor del reinforcement learning?",
+          "opciones": [
+            "AlexNet",
+            "TD-Gammon",
+            "AlphaGo",
+            "ELIZA"
+          ],
+          "respuestaCorrecta": "TD-Gammon"
+        },
+        {
+          "pregunta": "¿Qué modelo de red neuronal profunda ganó una competición de reconocimiento de imágenes en 2012, marcando un hito en el Deep Learning?",
+          "opciones": [
+            "Perceptrón",
+            "AlexNet",
+            "GPT-3",
+            "DALL-E 2"
+          ],
+          "respuestaCorrecta": "AlexNet"
+        },
+        {
+          "pregunta": "¿Qué sistema de IA venció al campeón mundial de Go en 2016, marcando otro hito histórico?",
+          "opciones": [
+            "Deep Blue",
+            "ChatGPT",
+            "AlphaGo",
+            "Siri"
+          ],
+          "respuestaCorrecta": "AlphaGo"
+        },
+        {
+          "pregunta": "¿Cuál es el lenguaje de programación más utilizado actualmente para desarrollar soluciones de inteligencia artificial, gracias a su sencillez y librerías especializadas?",
+          "opciones": [
+            "Java",
+            "C++",
+            "Prolog",
+            "Python"
+          ],
+          "respuestaCorrecta": "Python"
+        },
+        {
+          "pregunta": "¿Qué término se refiere al conjunto de técnicas y procesos para descubrir patrones ocultos, tendencias y relaciones útiles dentro de grandes conjuntos de datos?",
+          "opciones": [
+            "Big Data",
+            "Minería de Datos (Data Mining)",
+            "Análisis Predictivo",
+            "Inteligencia de Negocio (Business Intelligence)"
+          ],
+          "respuestaCorrecta": "Minería de Datos (Data Mining)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Unidad Didáctica 5: Evaluación de Datos",
+      "color": "#A133FF",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la diferencia fundamental entre 'dato' e 'información'?",
+          "opciones": [
+            "Son sinónimos en el contexto técnico.",
+            "Un dato es un hecho bruto sin procesar, mientras que la información es el resultado de interpretar datos para darles significado.",
+            "Los datos son siempre numéricos y la información es siempre textual.",
+            "La información solo proviene de fuentes externas, mientras que los datos son internos."
+          ],
+          "respuestaCorrecta": "Un dato es un hecho bruto sin procesar, mientras que la información es el resultado de interpretar datos para darles significado."
+        },
+        {
+          "pregunta": "De las 5 'V' del Big Data, ¿cuál se refiere a la calidad, exactitud y fiabilidad de los datos?",
+          "opciones": [
+            "Volumen",
+            "Velocidad",
+            "Variedad",
+            "Veracidad"
+          ],
+          "respuestaCorrecta": "Veracidad"
+        },
+        {
+          "pregunta": "¿Qué tipo de análisis de datos se enfoca en responder a la pregunta '¿qué podría ocurrir?' utilizando modelos predictivos?",
+          "opciones": [
+            "Análisis descriptivo",
+            "Análisis diagnóstico",
+            "Análisis predictivo",
+            "Análisis prescriptivo"
+          ],
+          "respuestaCorrecta": "Análisis predictivo"
+        },
+        {
+          "pregunta": "En el ciclo de vida de los datos, ¿qué etapa implica tareas como eliminar duplicados, corregir errores y rellenar datos faltantes?",
+          "opciones": [
+            "Generación o recopilación",
+            "Almacenamiento",
+            "Procesamiento y depuración",
+            "Archivado y eliminación"
+          ],
+          "respuestaCorrecta": "Procesamiento y depuración"
+        },
+        {
+          "pregunta": "¿Cuál es una ventaja clave de usar la computación en la nube para el almacenamiento de datos?",
+          "opciones": [
+            "Requiere una gran inversión inicial en hardware.",
+            "Ofrece escalabilidad inmediata, permitiendo ampliar o reducir la capacidad bajo demanda.",
+            "Los datos están exentos de cumplir con normativas de privacidad como el RGPD.",
+            "Elimina la necesidad de tener conexión a Internet para acceder a los datos."
+          ],
+          "respuestaCorrecta": "Ofrece escalabilidad inmediata, permitiendo ampliar o reducir la capacidad bajo demanda."
+        },
+        {
+          "pregunta": "El proceso conocido como ETL en ingeniería de datos corresponde a las siglas:",
+          "opciones": [
+            "Extraer, Transformar, Limpiar",
+            "Ejecutar, Trasladar, Liberar",
+            "Extraer, Transformar, Cargar (Load)",
+            "Enviar, Tratar, Listar"
+          ],
+          "respuestaCorrecta": "Extraer, Transformar, Cargar (Load)"
+        },
+        {
+          "pregunta": "¿Qué técnica se utiliza para explorar grandes volúmenes de datos en busca de patrones, correlaciones o tendencias ocultas?",
+          "opciones": [
+            "Ingeniería de datos",
+            "Minería de Datos (Data Mining)",
+            "Visualización de datos",
+            "Gestión del ciclo de vida de datos"
+          ],
+          "respuestaCorrecta": "Minería de Datos (Data Mining)"
+        },
+        {
+          "pregunta": "¿Qué implica para una empresa tomar decisiones basadas en datos?",
+          "opciones": [
+            "Basar las decisiones en la intuición y experiencia del personal más antiguo.",
+            "Fundamentar las decisiones en evidencias cuantitativas y análisis.",
+            "Realizar encuestas de opinión para cada decisión.",
+            "Copiar las estrategias de la competencia."
+          ],
+          "respuestaCorrecta": "Fundamentar las decisiones en evidencias cuantitativas y análisis."
+        },
+        {
+          "pregunta": "Un ejemplo de 'Data as a Product' es:",
+          "opciones": [
+            "Una empresa que vende software de análisis de datos.",
+            "Una empresa de telecomunicaciones que ofrece análisis anonimizados de movilidad poblacional a otras empresas.",
+            "Un consultor que realiza un análisis de datos para un cliente.",
+            "Una empresa que publica sus datos financieros anuales."
+          ],
+          "respuestaCorrecta": "Una empresa de telecomunicaciones que ofrece análisis anonimizados de movilidad poblacional a otras empresas."
+        },
+        {
+          "pregunta": "La segmentación de clientes que va más allá de la demografía y se basa en historiales de compra o navegación se denomina:",
+          "opciones": [
+            "Segmentación geográfica",
+            "Segmentación psicográfica",
+            "Segmentación comportamental",
+            "Segmentación aleatoria"
+          ],
+          "respuestaCorrecta": "Segmentación comportamental"
+        },
+        {
+          "pregunta": "¿Qué herramienta gratuita de hoja de cálculo online es mencionada como ideal para análisis de datos pequeños o medianos?",
+          "opciones": [
+            "Microsoft Excel",
+            "Tableau Public",
+            "Google Sheets",
+            "Python con pandas"
+          ],
+          "respuestaCorrecta": "Google Sheets"
+        },
+        {
+          "pregunta": "Para análisis más complejos y con grandes volúmenes de datos, ¿qué lenguaje de programación se ha convertido en el estándar de facto en ciencia de datos?",
+          "opciones": [
+            "Java",
+            "C++",
+            "Python",
+            "HTML"
+          ],
+          "respuestaCorrecta": "Python"
+        },
+        {
+          "pregunta": "¿Qué es un 'data lake'?",
+          "opciones": [
+            "Un tipo de base de datos relacional muy estructurada.",
+            "Un repositorio de almacenamiento masivo que guarda datos en su formato bruto y nativo.",
+            "Una herramienta de visualización de datos.",
+            "Un pequeño conjunto de datos para pruebas."
+          ],
+          "respuestaCorrecta": "Un repositorio de almacenamiento masivo que guarda datos en su formato bruto y nativo."
+        },
+        {
+          "pregunta": "El análisis de la 'cesta de mercado' en un supermercado es un ejemplo clásico de:",
+          "opciones": [
+            "Ingeniería de datos",
+            "Análisis predictivo",
+            "Minería de datos para encontrar patrones de compra",
+            "Análisis de sentimientos"
+          ],
+          "respuestaCorrecta": "Minería de datos para encontrar patrones de compra"
+        },
+        {
+          "pregunta": "El análisis de textos de reseñas de clientes para captar su opinión se conoce como:",
+          "opciones": [
+            "Análisis de series temporales",
+            "Análisis de sentimientos (Sentiment Analysis)",
+            "Análisis de regresión",
+            "Análisis de cohortes"
+          ],
+          "respuestaCorrecta": "Análisis de sentimientos (Sentiment Analysis)"
+        },
+        {
+          "pregunta": "¿Qué es un modelo de 'churn prediction'?",
+          "opciones": [
+            "Un modelo que predice las ventas del próximo mes.",
+            "Un modelo que anticipa qué clientes tienen mayor probabilidad de darse de baja de un servicio.",
+            "Un modelo que optimiza las rutas de logística.",
+            "Un modelo que detecta fraudes en transacciones."
+          ],
+          "respuestaCorrecta": "Un modelo que anticipa qué clientes tienen mayor probabilidad de darse de baja de un servicio."
+        },
+        {
+          "pregunta": "¿Qué tipo de análisis es el más avanzado y responde a la pregunta '¿qué deberíamos hacer?'?",
+          "opciones": [
+            "Análisis descriptivo",
+            "Análisis diagnóstico",
+            "Análisis predictivo",
+            "Análisis prescriptivo"
+          ],
+          "respuestaCorrecta": "Análisis prescriptivo"
+        },
+        {
+          "pregunta": "La relación entre Big Data, Machine Learning e IA es que:",
+          "opciones": [
+            "Son conceptos totalmente independientes.",
+            "Big Data es el 'combustible' que a menudo necesitan los algoritmos de Machine Learning para potenciar aplicaciones de IA.",
+            "IA es una subcategoría de Big Data.",
+            "Machine Learning es el proceso de almacenar Big Data."
+          ],
+          "respuestaCorrecta": "Big Data es el 'combustible' que a menudo necesitan los algoritmos de Machine Learning para potenciar aplicaciones de IA."
+        },
+        {
+          "pregunta": "¿Qué herramienta de BI (Business Intelligence) gratuita permite construir dashboards interactivos integrando fuentes como Google Sheets o CSV?",
+          "opciones": [
+            "Power BI Desktop (versión de pago en la nube)",
+            "Looker Studio (antes Google Data Studio)",
+            "QlikView",
+            "Jupyter Notebook"
+          ],
+          "respuestaCorrecta": "Looker Studio (antes Google Data Studio)"
+        },
+        {
+          "pregunta": "Según el RGPD, ¿cómo deben las empresas tratar los datos personales de los clientes?",
+          "opciones": [
+            "Pueden usarlos libremente una vez recopilados.",
+            "Deben publicarlos para garantizar la transparencia.",
+            "Deben protegerlos y usarlos solo con consentimiento y para fines legítimos.",
+            "Deben almacenarlos por un mínimo de 50 años."
+          ],
+          "respuestaCorrecta": "Deben protegerlos y usarlos solo con consentimiento y para fines legítimos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Unidad Didáctica 6: Proyecto de transformación digital",
+      "color": "#FFC300",
+      "preguntas": [
+      {
+    "pregunta": "¿Cuál es la diferencia clave entre 'digitalización' y 'transformación digital'?",
+    "opciones": [
+      "Son sinónimos y se usan indistintamente.",
+      "La digitalización es convertir algo a formato digital, mientras la transformación digital es un cambio profundo en la estrategia y cultura de la empresa usando tecnología.",
+      "La digitalización solo la hacen las pymes y la transformación digital las grandes empresas.",
+      "La transformación digital se enfoca solo en el marketing, y la digitalización en los procesos internos."
+    ],
+    "respuestaCorrecta": "La digitalización es convertir algo a formato digital, mientras la transformación digital es un cambio profundo en la estrategia y cultura de la empresa usando tecnología."
+  },
+  {
+    "pregunta": "Un objetivo estratégico clave de la transformación digital es:",
+    "opciones": [
+      "Comprar el software más caro del mercado.",
+      "Mantener todos los procesos manuales para evitar errores tecnológicos.",
+      "Mejorar la eficiencia operativa y la experiencia del cliente.",
+      "Reducir la presencia de la empresa en canales online."
+    ],
+    "respuestaCorrecta": "Mejorar la eficiencia operativa y la experiencia del cliente."
+  },
+  {
+    "pregunta": "La metodología SMART para definir objetivos digitales implica que estos deben ser:",
+    "opciones": [
+      "Simples, Mínimos, Aleatorios, Rápidos, Tácticos.",
+      "Sociales, Móviles, Analíticos, Radicales, Tecnológicos.",
+      "Específicos, Medibles, Alcanzables, Relevantes, y con un Plazo determinado.",
+      "Superiores, Magistrales, Aptos, Racionales, Totales."
+    ],
+    "respuestaCorrecta": "Específicos, Medibles, Alcanzables, Relevantes, y con un Plazo determinado."
+  },
+  {
+    "pregunta": "¿Por qué es crucial la alineación entre todas las áreas de la empresa en un proyecto de transformación digital?",
+    "opciones": [
+      "No es crucial, cada departamento puede digitalizarse por su cuenta.",
+      "Para evitar 'silos', asegurar una experiencia de cliente integrada y lograr un efecto sinérgico.",
+      "Solo para que el departamento de TI pueda controlar a los demás.",
+      "Únicamente para reducir los costes del proyecto."
+    ],
+    "respuestaCorrecta": "Para evitar 'silos', asegurar una experiencia de cliente integrada y lograr un efecto sinérgico."
+  },
+  {
+    "pregunta": "¿Qué es un software ERP (Enterprise Resource Planning)?",
+    "opciones": [
+      "Un programa para crear páginas web.",
+      "Un sistema que gestiona las relaciones con los clientes (CRM).",
+      "Un software integral que gestiona y unifica los procesos clave de una empresa (contabilidad, inventario, ventas, etc.).",
+      "Una herramienta para diseñar flujos de trabajo (BPM)."
+    ],
+    "respuestaCorrecta": "Un software integral que gestiona y unifica los procesos clave de una empresa (contabilidad, inventario, ventas, etc.)."
+  },
+  {
+    "pregunta": "El modelo de servicio en la nube donde se utilizan aplicaciones listas para usar a través de un navegador, como Google Docs o Salesforce, se llama:",
+    "opciones": [
+      "IaaS (Infraestructura como Servicio)",
+      "PaaS (Plataforma como Servicio)",
+      "SaaS (Software como Servicio)",
+      "CaaS (Contenedor como Servicio)"
+    ],
+    "respuestaCorrecta": "SaaS (Software como Servicio)"
+  },
+  {
+    "pregunta": "El tratamiento masivo de datos para extraer conocimiento, usando tecnologías como Hadoop o Spark, se conoce como:",
+    "opciones": [
+      "Small Data",
+      "Big Data",
+      "Medium Data",
+      "Clean Data"
+    ],
+    "respuestaCorrecta": "Big Data"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los riesgos de seguridad y privacidad más comunes en la era digital?",
+    "opciones": [
+      "La pérdida de documentos en papel.",
+      "El exceso de reuniones presenciales.",
+      "Ciberataques como el ransomware y las brechas de datos.",
+      "La falta de actualizaciones de software, que no supone un riesgo."
+    ],
+    "respuestaCorrecta": "Ciberataques como el ransomware y las brechas de datos."
+  },
+  {
+    "pregunta": "¿Qué es un informe de viabilidad en un proyecto de transformación digital?",
+    "opciones": [
+      "Un manual de usuario para el nuevo software implementado.",
+      "Un documento que se elabora al final del proyecto para medir el éxito.",
+      "Un análisis previo que estudia si el proyecto es factible y rentable técnica, económica y operativamente.",
+      "Un plan de marketing para comunicar la transformación a los clientes."
+    ],
+    "respuestaCorrecta": "Un análisis previo que estudia si el proyecto es factible y rentable técnica, económica y operativamente."
+  },
+  {
+    "pregunta": "En el contexto de los recursos humanos, ¿qué es el 'reskilling'?",
+    "opciones": [
+      "Contratar nuevo personal con habilidades digitales.",
+      "Despedir al personal que no tiene competencias digitales.",
+      "Mejorar las habilidades que un empleado ya posee (upskilling).",
+      "Formar a un empleado para que adquiera habilidades completamente nuevas para un rol diferente."
+    ],
+    "respuestaCorrecta": "Formar a un empleado para que adquiera habilidades completamente nuevas para un rol diferente."
+  },
+  {
+    "pregunta": "Un software CRM (Customer Relationship Management) se utiliza principalmente para:",
+    "opciones": [
+      "Gestionar la contabilidad y las finanzas de la empresa.",
+      "Optimizar la cadena de suministro y la logística.",
+      "Gestionar las relaciones con los clientes, las ventas y el marketing.",
+      "Diseñar y automatizar procesos de negocio."
+    ],
+    "respuestaCorrecta": "Gestionar las relaciones con los clientes, las ventas y el marketing."
+  },
+  {
+    "pregunta": "¿Qué es un KPI (Indicador Clave de Rendimiento) en un plan digital?",
+    "opciones": [
+      "Una tecnología de software específica.",
+      "Una métrica para evaluar el progreso hacia los objetivos del proyecto.",
+      "El responsable del proyecto de transformación digital.",
+      "Un tipo de riesgo de seguridad."
+    ],
+    "respuestaCorrecta": "Una métrica para evaluar el progreso hacia los objetivos del proyecto."
+  },
+  {
+    "pregunta": "La 'soberanía del dato' es una consideración importante en soluciones cloud que se refiere a:",
+    "opciones": [
+      "La velocidad de acceso a los datos.",
+      "La cantidad de datos que se pueden almacenar.",
+      "La ubicación física de los servidores donde se almacenan los datos y el cumplimiento de las leyes locales (como RGPD).",
+      "El coste del almacenamiento en la nube."
+    ],
+    "respuestaCorrecta": "La ubicación física de los servidores donde se almacenan los datos y el cumplimiento de las leyes locales (como RGPD)."
+  },
+  {
+    "pregunta": "¿Cuál de estos perfiles profesionales es de alta demanda para la transformación digital?",
+    "opciones": [
+      "Archivador de documentos físicos.",
+      "Especialista en ciberseguridad.",
+      "Mecanógrafo.",
+      "Operador de centralita telefónica."
+    ],
+    "respuestaCorrecta": "Especialista en ciberseguridad."
+  },
+  {
+    "pregunta": "La estrategia 'omnicanal' que implementan empresas como Inditex busca:",
+    "opciones": [
+      "Cerrar todas las tiendas físicas y vender solo online.",
+      "Separar completamente la operativa de la tienda física y la online.",
+      "Integrar los canales físico y online para ofrecer una experiencia de cliente fluida y coherente.",
+      "Utilizar un único canal de venta para todos los clientes."
+    ],
+    "respuestaCorrecta": "Integrar los canales físico y online para ofrecer una experiencia de cliente fluida y coherente."
+  },
+  {
+    "pregunta": "La tecnología RFID (etiquetas inteligentes) en Inditex se utiliza para:",
+    "opciones": [
+      "Imprimir los precios en las etiquetas de cartón.",
+      "Mejorar la gestión de inventario y la experiencia en tienda, permitiendo localizar prendas y eliminar alarmas duras.",
+      "Conectar las tiendas a redes sociales.",
+      "Analizar el big data de las ventas."
+    ],
+    "respuestaCorrecta": "Mejorar la gestión de inventario y la experiencia en tienda, permitiendo localizar prendas y eliminar alarmas duras."
+  },
+  {
+    "pregunta": "¿Qué es un 'agente digitalizador' en el contexto del programa Kit Digital en España?",
+    "opciones": [
+      "Un software de inteligencia artificial que gestiona la digitalización.",
+      "Una empresa o profesional acreditado que ayuda a las pymes a implementar las soluciones subvencionadas.",
+      "Un empleado del gobierno que supervisa a las pymes.",
+      "Un tipo de ciberataque dirigido a empresas."
+    ],
+    "respuestaCorrecta": "Una empresa o profesional acreditado que ayuda a las pymes a implementar las soluciones subvencionadas."
+  },
+  {
+    "pregunta": "La 'gestión del cambio' en un proyecto de transformación se refiere a:",
+    "opciones": [
+      "Cambiar el software por una versión más nueva.",
+      "El proceso de ayudar a las personas de la organización a aceptar y adaptarse a las nuevas tecnologías y procesos.",
+      "Gestionar los cambios en el presupuesto del proyecto.",
+      "Cambiar de proveedor de tecnología a mitad del proyecto."
+    ],
+    "respuestaCorrecta": "El proceso de ayudar a las personas de la organización a aceptar y adaptarse a las nuevas tecnologías y procesos."
+  },
+  {
+    "pregunta": "Un perfil de 'Diseñador/a UX/UI' se encarga de:",
+    "opciones": [
+      "Diseñar la arquitectura de la red de la empresa.",
+      "Diseñar la experiencia de usuario y la interfaz de productos digitales para que sean intuitivos y agradables.",
+      "Diseñar las campañas de marketing en redes sociales.",
+      "Diseñar los algoritmos de inteligencia artificial."
+    ],
+    "respuestaCorrecta": "Diseñar la experiencia de usuario y la interfaz de productos digitales para que sean intuitivos y agradables."
+  },
+  {
+    "pregunta": "¿Por qué es importante la formación continua y el autoaprendizaje para un profesional en la era digital?",
+    "opciones": [
+      "No es importante, las tecnologías no cambian.",
+      "Porque la tecnología evoluciona rápidamente y las habilidades pueden quedar obsoletas.",
+      "Solo es importante para los directivos de la empresa.",
+      "Para poder usar las mismas herramientas durante toda la carrera profesional."
+    ],
+    "respuestaCorrecta": "Porque la tecnología evoluciona rápidamente y las habilidades pueden quedar obsoletas."
+  }
+]
+    }
+  ]
+}
